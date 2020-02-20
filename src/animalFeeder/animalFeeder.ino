@@ -1034,8 +1034,6 @@ void printAlarmsMQTTLog() {
       logString += weekdayChar;
       logString += " ";
       logString += alarms_hours[i];
-      logString += " ";
-      logString += "ó clock";
       logString += "] ";
     }
   }
